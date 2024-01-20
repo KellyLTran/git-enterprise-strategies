@@ -1,0 +1,44 @@
+[33mcommit 73614e2f59e1530a8e8d1e80cf5b2032b8d48de8[m[33m ([m[1;36mHEAD -> [m[1;32mhelloWorld[m[33m, [m[1;33mtag: v1.0.0[m[33m, [m[1;31morigin/helloWorld[m[33m)[m
+Author: Kelly <kellyltran04@gmail.com>
+Date:   Fri Jan 19 21:20:52 2024 -0500
+
+    1.0.0
+
+[33mcommit 92c42ee6c1c9879f8d95d3b7f9e6f587672b393f[m
+Author: Kelly <kellyltran04@gmail.com>
+Date:   Fri Jan 19 17:02:59 2024 -0500
+
+    refactor: added name Kelly Tran
+
+[33mcommit 0dd22a61d3956ca143f806467703852dfe7c1fe2[m
+Author: samilieberman <samilieberman1@gmail.com>
+Date:   Sun Nov 6 19:46:16 2022 -0500
+
+    Add new text and gator image
+
+[33mcommit 6cb53b9c3a7404e40496490db851a856b0a18d16[m
+Author: samilieberman <samilieberman1@gmail.com>
+Date:   Sun Nov 6 19:28:41 2022 -0500
+
+    add hello world message
+
+[33mcommit 5729ff41dadce3afc6b55a9eeee7a1104cf2e3e7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: ac06f90 8a8e6fb
+Author: Sami Lieberman <samilieberman1@gmail.com>
+Date:   Mon Nov 7 19:52:04 2022 -0500
+
+    Merge pull request #1 from samilieberman/contributions
+    
+    Add contributing.md
+
+[33mcommit 8a8e6fbb618da46766116d2d82bef6d20cccb03a[m[33m ([m[1;31morigin/contributions[m[33m)[m
+Author: samilieberman <samilieberman1@gmail.com>
+Date:   Mon Nov 7 19:50:35 2022 -0500
+
+    add contributing.md
+
+[33mcommit ac06f907b201a6806a215d0b4fafd893fb764771[m
+Author: samilieberman <samilieberman1@gmail.com>
+Date:   Thu Oct 6 21:10:59 2022 -0400
+
+    Initialize project using Create React App
